@@ -1,0 +1,43 @@
+.bg-green{
+background-color: #28A745;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.card-title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20pt;
+    font-weight: 300;
+    color:#212529;
+}
+.card-subtitle, .grey-price, input, footer{
+    font-size: 16pt;
+    font-weight: 300;
+    color:#707070;
+}
+.fa-map-marker,.fa-map-marker-alt, .card-text{
+    color: #707070;
+    font-size: 13pt;
+    font-weight: 300;
+}
+
+.green-price{
+    font-size: 20pt;
+    font-weight: 500;
+    color:#28A745
+}
+.bg.green{
+    background-color: #28A745;
+}
+.button{
+    margin-left: 0;
+}
+.form-title{
+    color:#FFFFFF;
+    font-size:21pt;
+    font-weight: 500;
+}
+footer a, footer h6{
+    display: block;
+}
